@@ -4,6 +4,9 @@
 brew install neovim
 brew install caskroom/cask/visual-studio-code
 
+# Vcs
+brew install git
+
 # Pytnon
 brew install python3
 
