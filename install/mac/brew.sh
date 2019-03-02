@@ -19,6 +19,9 @@ brew install caskroom/cask/google-chrome
 # Launcher
 brew install caskroom/cask/alfred
 
+# Keyboard
+brew install caskroom/cask/karabiner-elements
+
 # Ebook Browser
 brew install caskroom/cask/kindle
 
