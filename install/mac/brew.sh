@@ -16,6 +16,9 @@ brew install ffmpeg
 # Web Browser
 brew install caskroom/cask/google-chrome
 
+# Launcher
+brew install caskroom/cask/alfred
+
 # Ebook Browser
 brew install caskroom/cask/kindle
 
