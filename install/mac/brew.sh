@@ -22,6 +22,9 @@ brew install caskroom/cask/alfred
 # Keyboard
 brew install caskroom/cask/karabiner-elements
 
+# Window management
+brew install caskroom/cask/slate
+
 # Ebook Browser
 brew install caskroom/cask/kindle
 
