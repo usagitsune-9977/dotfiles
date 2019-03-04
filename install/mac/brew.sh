@@ -4,6 +4,9 @@
 brew install neovim
 brew install caskroom/cask/visual-studio-code
 
+# Terminal
+brew install caskroom/cask/alacritty
+
 # Vcs
 brew install git
 brew install caskroom/cask/sourcetree
