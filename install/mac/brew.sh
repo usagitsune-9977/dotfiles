@@ -14,6 +14,9 @@ brew install caskroom/cask/sourcetree
 # Pytnon
 brew install python3
 
+# Fuzzy finder
+brew install fzf
+
 # Encoder
 brew install ffmpeg
 
