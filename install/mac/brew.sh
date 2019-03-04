@@ -6,6 +6,7 @@ brew install caskroom/cask/visual-studio-code
 
 # Terminal
 brew install caskroom/cask/alacritty
+brew install tmux
 
 # Vcs
 brew install git
