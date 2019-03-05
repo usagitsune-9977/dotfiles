@@ -10,6 +10,7 @@ brew install tmux
 
 # Shell
 brew install zsh
+brew install zplug
 
 # Vcs
 brew install git
