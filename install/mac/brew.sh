@@ -45,3 +45,6 @@ brew install caskroom/cask/vlc
 
 # mouse
 brew install homebrew/cask-drivers/logitech-gaming-software 
+
+# Font
+brew cask install caskroom/fonts/font-hack-nerd-font
