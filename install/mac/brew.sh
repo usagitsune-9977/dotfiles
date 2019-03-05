@@ -38,3 +38,6 @@ brew install caskroom/cask/kindle
 
 # Video player
 brew install caskroom/cask/vlc
+
+# mouse
+brew install homebrew/cask-drivers/logitech-gaming-software 
