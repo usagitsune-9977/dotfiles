@@ -8,6 +8,9 @@ brew install caskroom/cask/visual-studio-code
 brew install caskroom/cask/alacritty
 brew install tmux
 
+# Shell
+brew install zsh
+
 # Vcs
 brew install git
 brew install caskroom/cask/sourcetree
