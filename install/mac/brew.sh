@@ -22,6 +22,9 @@ brew install python3
 # Fuzzy finder
 brew install fzf
 
+# Filer
+brew install tree
+
 # Encoder
 brew install ffmpeg
 
