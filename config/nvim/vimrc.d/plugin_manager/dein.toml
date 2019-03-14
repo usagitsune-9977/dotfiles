@@ -29,6 +29,10 @@ depends = 'fzf'
 [[plugins]]
 repo = 'Shougo/defx.nvim'
 
+# Git
+[[plugins]]
+repo = 'tpope/vim-fugitive'
+
 # Ansible
 [[plugins]]
 repo  = 'pearofducks/ansible-vim'
