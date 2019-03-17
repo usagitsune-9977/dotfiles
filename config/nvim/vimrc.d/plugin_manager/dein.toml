@@ -40,6 +40,10 @@ repo = 'airblade/vim-gitgutter'
 [[plugins]]
 repo = 'vim-airline/vim-airline'
 
+# Interface
+[[plugins]]
+repo = 'Shougo/denite.nvim'
+
 # Ansible
 [[plugins]]
 repo  = 'pearofducks/ansible-vim'
