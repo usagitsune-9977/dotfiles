@@ -8,6 +8,9 @@ zplug "bhilburn/powerlevel9k", use:powerlevel9k.zsh-theme
 # Cd
 zplug "b4b4r07/enhancd", use:init.sh
 
+# Completion
+zplug "zsh-users/zsh-completions"
+
 # Install plugins if there are plugins that have not been installed
 if ! zplug check --verbose; then
     printf 'Install? [y/N]: '
