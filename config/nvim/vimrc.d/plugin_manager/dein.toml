@@ -33,6 +33,9 @@ repo = 'Shougo/defx.nvim'
 [[plugins]]
 repo = 'tpope/vim-fugitive'
 
+[[plugins]]
+repo = 'airblade/vim-gitgutter'
+
 # Status line
 [[plugins]]
 repo = 'vim-airline/vim-airline'
