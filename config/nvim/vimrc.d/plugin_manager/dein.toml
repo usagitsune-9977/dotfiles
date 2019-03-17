@@ -44,6 +44,11 @@ repo = 'vim-airline/vim-airline'
 [[plugins]]
 repo = 'Shougo/denite.nvim'
 
+# Terminal
+[[plugins]]
+repo = 'kassio/neoterm'
+if   = 'has("nvim")'
+
 # Ansible
 [[plugins]]
 repo  = 'pearofducks/ansible-vim'
