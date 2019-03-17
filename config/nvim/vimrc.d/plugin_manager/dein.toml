@@ -33,6 +33,10 @@ repo = 'Shougo/defx.nvim'
 [[plugins]]
 repo = 'tpope/vim-fugitive'
 
+# Status line
+[[plugins]]
+repo = 'vim-airline/vim-airline'
+
 # Ansible
 [[plugins]]
 repo  = 'pearofducks/ansible-vim'
